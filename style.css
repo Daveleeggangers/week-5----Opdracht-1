@@ -1,0 +1,25 @@
+.container {
+	padding: 5px 400px 0% 500px;
+}
+.main {
+	border-top: solid 1px #000;
+}
+
+#foto {
+	width: 500px;
+	height: 400px;
+}
+
+div.tip{
+    text-align: center;
+    padding: center;
+    width: 650px;
+    height: 30px;
+    background: #abebc7;
+    opacity: 0.7;
+
+}
+
+span.tip{
+font-weight: bold;
+}
