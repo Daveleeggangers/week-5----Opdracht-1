@@ -23,3 +23,25 @@ div.tip{
 span.tip{
 font-weight: bold;
 }
+
+.main2 ul {
+    margin-left: 40px;
+}
+
+.main2 ul li{
+    list-style: none;
+    float: left;
+    line-height: 40px;
+}
+
+.main2 ul li a{
+    text-decoration: none;
+    font-size: 18px;
+    font-family: Roboto;
+    color: #000000;
+    padding: 0 25px;
+}
+
+h2 {
+	font-family: Roboto;
+}
